@@ -1,0 +1,72 @@
+
+# ==================================
+# JAVA - MAVEN
+# ==================================
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+replay_pid*
+
+# ==================================
+# IDE - ANTIGRAVITY / VS CODE
+# ==================================
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+*.code-workspace
+
+# ==================================
+# AI / TESTING TEMPORARY FILES
+# ==================================
+.playwright-mcp/
+playwright-report/
+test-results/
+screenshots/
+*.tmp
+*.temp
+*.bak
+
+# ==================================
+# OPERATING SYSTEM
+# ==================================
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ==================================
+# ENVIRONMENT / SECRETS
+# ==================================
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.jks
+secrets/
+credentials.json
+
+# ==================================
+# TEMPORARY / BACKUP
+# ==================================
+*.swp
+*.swo
+*~
+*.orig
+*.backup
+.cache/
+temp/
+tmp/
+
+# ==================================
+# DEPENDENCIES
+# ==================================
+node_modules/

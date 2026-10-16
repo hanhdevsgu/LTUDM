@@ -1,0 +1,1 @@
+var smartAds = window.smartAds || {config: {}}; smartAds.config={"In_stream_1":23031,"In_stream_box_Dulich":10300,"In_stream_box_Xe":10301,"In_stream_2":23032,"Large_sponsor":22705};
